@@ -84,6 +84,9 @@ studyOB1/
 Распространяется по лицензии MIT. См. файл `LICENSE` для получения дополнительной информации.
 
 ## 📬 Контакты
-Ваше имя - [@ваш_твиттер](https://twitter.com/ваш_твиттер) - ваш.email@example.com
+Чурэн Дмитрий Сергеевич
+
+- Telegram: [@diviper](https://t.me/diviper)
+- Email: [churendmitriy@gmail.com](mailto:churendmitriy@gmail.com)
 
 Ссылка на проект: [https://github.com/diviper/studyOB1](https://github.com/diviper/studyOB1)
